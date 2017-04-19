@@ -85,9 +85,9 @@
         "embedEnabled": false,
         "feedbackEnabled": false,
         "fullscreenEnabled": true,
-        "logoEnabled": true,
+        "logoEnabled": false,
         "logoOptions": {
-          "website": "http://www.4science.it"
+          "website": ""
         },
         "minimiseButtons": true,
         "moreInfoEnabled": true,
@@ -180,10 +180,10 @@
     },
     "settingsDialogue": {
       "options": {
-        "contributedByEnabled" : true,
+        "contributedByEnabled" : false,
         "contributedByOptions" : {
-          "contributor" : "4Science",
-          "website" : "http://www.4science.it"
+          "contributor" : "",
+          "website" : ""
         },
         "moreInfo": {
           "website": "https://github.com/universalviewer/universalviewer#contributors"
